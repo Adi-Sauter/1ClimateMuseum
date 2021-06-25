@@ -40,7 +40,9 @@ public class TeleportPlayer : MonoBehaviour
     public GameObject targetarea;
     public void teleport()
     {
-        Vector3 target = new Vector3(targetarea.transform.localPosition.x, targetarea.transform.localPosition.y, targetarea.transform.localPosition.z);
+        //Vector3 target = new Vector3(targetarea.transform.localPosition.x, targetarea.transform.localPosition.y, targetarea.transform.localPosition.z);
+        Vector3 target = new Vector3(targetarea.transform.position.x, this.transform.position.y, targetarea.transform.position.z);
+
         this.transform.localPosition = target;
         //this.transform.localPosition = targetposition;
     }

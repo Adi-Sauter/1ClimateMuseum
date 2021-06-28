@@ -6,7 +6,7 @@ public class CollisionScript : MonoBehaviour
 {
     public GameObject targetinSim;
     public GameObject targetinMus;
-    void onTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         Debug.Log("Collision with " + other.gameObject.name);
         if(other.gameObject.CompareTag("toSimulator"))

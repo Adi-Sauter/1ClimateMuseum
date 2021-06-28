@@ -1,0 +1,589 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64153
+Successfully changed project path to: /Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+/Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-28 14:34:25.884 Unity[26099:2316621] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-06-28 14:34:25.884 Unity[26099:2316621] Metal devices available: 1
+2021-06-28 14:34:25.884 Unity[26099:2316621] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-06-28 14:34:25.885 Unity[26099:2316621] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56099
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002453 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.540 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.361 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.9 MB.
+System memory in use after: 163.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1927.
+Total: 2.416163 ms (FindLiveObjects: 0.295599 ms CreateObjectMapping: 0.070199 ms MarkObjects: 2.009747 ms  DeleteObjects: 0.038510 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderLarge.prefab
+  artifactKey: Guid(a049a17743c2ead30b833a2c3eb32e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderLarge.prefab using Guid(a049a17743c2ead30b833a2c3eb32e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975f344ca0842bb05d497e3a54910173') in 1.451537 seconds
+  Import took 1.454675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Prefabs/Panels/Carbon Pricing Panel Content.prefab
+  artifactKey: Guid(fe76e310cd2a3f5c1b9beea91df76ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/Carbon Pricing Panel Content.prefab using Guid(fe76e310cd2a3f5c1b9beea91df76ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fd2c75136fee2208ae95f6ed8f7413') in 0.111234 seconds
+  Import took 0.119951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderWhite.prefab
+  artifactKey: Guid(efad6268b27079dd8834aa3baedfb4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderWhite.prefab using Guid(efad6268b27079dd8834aa3baedfb4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db933ffe513ef9327b6f79048c21dfa') in 0.005331 seconds
+  Import took 0.009557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderWhite.prefab
+  artifactKey: Guid(b7890fd715b884f64b8718357a8b2ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderWhite.prefab using Guid(b7890fd715b884f64b8718357a8b2ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b43c990723ebbefe5d50becbfcd9bc75') in 0.004161 seconds
+  Import took 0.008025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000836 seconds.
+  path: Assets/Prefabs/Panels/Coal Panel Content.prefab
+  artifactKey: Guid(3412225354e9baadca69f1d252244318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/Coal Panel Content.prefab using Guid(3412225354e9baadca69f1d252244318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6d95bf01ffc0d58e887cbc5488f2cb') in 0.048589 seconds
+  Import took 0.053583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderWhite.prefab
+  artifactKey: Guid(69fffb3cf0ad25514876a8876c9503eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderWhite.prefab using Guid(69fffb3cf0ad25514876a8876c9503eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e707127c9ce228ab9ce5c8480cccac2b') in 0.004466 seconds
+  Import took 0.007687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderLarge.prefab
+  artifactKey: Guid(c90ea16001acc0e77ba2d4051f25fc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderLarge.prefab using Guid(c90ea16001acc0e77ba2d4051f25fc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0290878b4b5cf629da5920d10d20622') in 0.003397 seconds
+  Import took 0.005994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderWhite.prefab
+  artifactKey: Guid(c6e08e7091dd45092b094b407b40ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderWhite.prefab using Guid(c6e08e7091dd45092b094b407b40ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5ac0531a04fa20521faee338aefe23') in 0.003654 seconds
+  Import took 0.006437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Prefabs/BackgroundImages/Growth/G Economic.prefab
+  artifactKey: Guid(af1ed7e1c24a806aea395ffb2b65dcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/Growth/G Economic.prefab using Guid(af1ed7e1c24a806aea395ffb2b65dcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f967b8ecc3e5960004ac23d70e9c4312') in 0.004323 seconds
+  Import took 0.007656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderBlack.prefab
+  artifactKey: Guid(a7625a6400310554eb52ef2445577f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderBlack.prefab using Guid(a7625a6400310554eb52ef2445577f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb214d1b79785e3c76938850b75995bf') in 0.003914 seconds
+  Import took 0.007611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Prefabs/BackgroundImages/EnergySupply/Carbon Pricing.prefab
+  artifactKey: Guid(501e4c26a581e53cc9c5295162bffd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/EnergySupply/Carbon Pricing.prefab using Guid(501e4c26a581e53cc9c5295162bffd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6538412470ec479725add1512920b61') in 0.004654 seconds
+  Import took 0.008384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderWhite.prefab
+  artifactKey: Guid(3ccdbcd5c278f68dd867fb5462231177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderWhite.prefab using Guid(3ccdbcd5c278f68dd867fb5462231177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbd6e2fc56bde90ad1d4d13e9533c42') in 0.003627 seconds
+  Import took 0.007070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderBlack.prefab
+  artifactKey: Guid(74f3e4d59cc3642fe8843d9fedf992f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderBlack.prefab using Guid(74f3e4d59cc3642fe8843d9fedf992f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e865fec0353738a2779507e22914e55b') in 0.003085 seconds
+  Import took 0.005926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Prefabs/Panels/G Economic Panel Content.prefab
+  artifactKey: Guid(c6ca8dbb187d58c2db8b68e9e262c964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/G Economic Panel Content.prefab using Guid(c6ca8dbb187d58c2db8b68e9e262c964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bc673160473500229ec16e181c7a95') in 0.038953 seconds
+  Import took 0.043060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderBlack.prefab
+  artifactKey: Guid(12c71a1d05225cfdc8bcb06d813d09f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderBlack.prefab using Guid(12c71a1d05225cfdc8bcb06d813d09f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99b18941cb8142805c9c688b50bf766') in 0.003954 seconds
+  Import took 0.007265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderLarge.prefab
+  artifactKey: Guid(56d699a05e242aa429241c571bf42185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Coal/CoalHeaderLarge.prefab using Guid(56d699a05e242aa429241c571bf42185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db8e1cb4762b3a8d10dac7e0ceb249f') in 0.004200 seconds
+  Import took 0.008018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Prefabs/BackgroundImages/Growth/G Population.prefab
+  artifactKey: Guid(9b0a32877fe1046bb8892fc6031ff604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/Growth/G Population.prefab using Guid(9b0a32877fe1046bb8892fc6031ff604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ed1a86d165311a523be871768b46de') in 0.006579 seconds
+  Import took 0.010574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Prefabs/Panels/Bioenergy Panel Content.prefab
+  artifactKey: Guid(9c7f671f9a0ea5b02a67be6bbca28e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/Bioenergy Panel Content.prefab using Guid(9c7f671f9a0ea5b02a67be6bbca28e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa563608932514dacb4e3a3de873433') in 0.038176 seconds
+  Import took 0.043159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Prefabs/BackgroundImages/EnergySupply/Bioenergy.prefab
+  artifactKey: Guid(9a9e0d2e718c844edac4130e0b1c7967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/EnergySupply/Bioenergy.prefab using Guid(9a9e0d2e718c844edac4130e0b1c7967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b1e18542e577b95263a2e1ca4a921a6') in 0.005128 seconds
+  Import took 0.009236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003540 seconds.
+  path: Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderLarge.prefab
+  artifactKey: Guid(03e7c2520eb8ae22c96fd01497a23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderLarge.prefab using Guid(03e7c2520eb8ae22c96fd01497a23a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36325fac9d766f3c27fe31ec2f2e4570') in 0.004896 seconds
+  Import took 0.008520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Prefabs/BackgroundImages/EnergySupply/Coal.prefab
+  artifactKey: Guid(1c4b7f988224579f5982afba08f60ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/EnergySupply/Coal.prefab using Guid(1c4b7f988224579f5982afba08f60ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9c9d06b9f9200edf1d4da0c69d98f7') in 0.004716 seconds
+  Import took 0.008106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Prefabs/BackgroundImages/BuildingsIndustry/Buildings & Industry.prefab
+  artifactKey: Guid(9d56d98afdc3463908b30a26db697d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/BuildingsIndustry/Buildings & Industry.prefab using Guid(9d56d98afdc3463908b30a26db697d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a038bfa0b3f9ef69c6ea8bc53bdd6735') in 0.005922 seconds
+  Import took 0.009502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderLarge.prefab
+  artifactKey: Guid(e2114756fd20d0262846c2328c4cd339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Electrification/BIElectrificationHeaderLarge.prefab using Guid(e2114756fd20d0262846c2328c4cd339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f948b187cade837e98f5f9c9dfc7659') in 0.004375 seconds
+  Import took 0.008498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderWhite.prefab
+  artifactKey: Guid(effa756e67211f50b8ef47fe518cfe4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderWhite.prefab using Guid(effa756e67211f50b8ef47fe518cfe4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d8aaff5f02e32ae6bb8f33483a1d2c') in 0.004334 seconds
+  Import took 0.007785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Prefabs/BackgroundImages/Emissions/Deforestation.prefab
+  artifactKey: Guid(6cf7491718fc15d8f90bfdd1f110f833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/Emissions/Deforestation.prefab using Guid(6cf7491718fc15d8f90bfdd1f110f833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d3fc8b165daeec66e445c39d71d001') in 0.004420 seconds
+  Import took 0.009060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderBlack.prefab
+  artifactKey: Guid(33282b5eed297e3b5b4e18944b30283d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderBlack.prefab using Guid(33282b5eed297e3b5b4e18944b30283d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd695d61bf75018c065c233473bc9b073') in 0.005070 seconds
+  Import took 0.009294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderBlack.prefab
+  artifactKey: Guid(0ebb643d4bdc626caacc060449b33e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Emissions/Deforestation/DeforestationHeaderBlack.prefab using Guid(0ebb643d4bdc626caacc060449b33e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce0971f57cdd8169432c77a9c0ed90b') in 0.004959 seconds
+  Import took 0.009103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Prefabs/BackgroundImages/CarbonRemoval/Carbon Removal.prefab
+  artifactKey: Guid(2804f15992b55e4a595fb95221e8a4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/CarbonRemoval/Carbon Removal.prefab using Guid(2804f15992b55e4a595fb95221e8a4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efeb3f41dba262af074214d5c593d8a0') in 0.005908 seconds
+  Import took 0.009861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Prefabs/Panels/Deforestation Panel Content.prefab
+  artifactKey: Guid(adad8f64c4ecb8a0e9989b7101ad83be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/Deforestation Panel Content.prefab using Guid(adad8f64c4ecb8a0e9989b7101ad83be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc8a1469534d702fa6c4ae2c98728ae') in 0.045097 seconds
+  Import took 0.050039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Prefabs/BackgroundImages/CarbonRemoval/Afforestation.prefab
+  artifactKey: Guid(6eb1abaef9a4cd45b8110b7a2551369d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/CarbonRemoval/Afforestation.prefab using Guid(6eb1abaef9a4cd45b8110b7a2551369d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4440fcad72d5919a54c37fa4aeca451') in 0.006957 seconds
+  Import took 0.011375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000955 seconds.
+  path: Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderLarge.prefab
+  artifactKey: Guid(a8c94d9efd833a646a7d0bb2fdccb1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderLarge.prefab using Guid(a8c94d9efd833a646a7d0bb2fdccb1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a548cd623725c9d8e3a85fff8404658') in 0.004586 seconds
+  Import took 0.008408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004571 seconds.
+  path: Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderLarge.prefab
+  artifactKey: Guid(81a4531e266b3aa5ea46850cb4902b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Buildings & Industry/Efficiency/BIEfficiencyHeaderLarge.prefab using Guid(81a4531e266b3aa5ea46850cb4902b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48d8dbe2a1aa8acbc7df17652b679c1') in 0.004178 seconds
+  Import took 0.007612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Prefabs/BackgroundImages/BuildingsIndustry/BI Efficiency.prefab
+  artifactKey: Guid(8b114ebff408da735b842aff94d61d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/BuildingsIndustry/BI Efficiency.prefab using Guid(8b114ebff408da735b842aff94d61d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf00c26181b1a1837420bab3e27f3a6') in 0.004672 seconds
+  Import took 0.007755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006839 seconds.
+  path: Assets/Prefabs/Panels/G Population Panel Content.prefab
+  artifactKey: Guid(1a3c8f28547e8b8abbf0c2b93bfba4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/G Population Panel Content.prefab using Guid(1a3c8f28547e8b8abbf0c2b93bfba4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a2f75790aa9fd6086fe637697ca4eb') in 0.040241 seconds
+  Import took 0.045571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Prefabs/Transport_Electrification.prefab
+  artifactKey: Guid(e44ca93f68180304887bbe0f930ec627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Transport_Electrification.prefab using Guid(e44ca93f68180304887bbe0f930ec627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a784c010847f913b3ac73f0ed57f0a') in 0.042087 seconds
+  Import took 0.047354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderBlack.prefab
+  artifactKey: Guid(88053c817af4da80c898bf5fce6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Bioenergy/BioenergyHeaderBlack.prefab using Guid(88053c817af4da80c898bf5fce6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f75e2acd2ea684c4815d0afaffab4d') in 0.007352 seconds
+  Import took 0.013444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Prefabs/BackgroundImages/EnergySupply/Energy Supply.prefab
+  artifactKey: Guid(63aeb88d2006621d9b26fdfdf4b5cefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/EnergySupply/Energy Supply.prefab using Guid(63aeb88d2006621d9b26fdfdf4b5cefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9a882e5e98049ef0dab078439815a3') in 0.007839 seconds
+  Import took 0.014428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Prefabs/Headers/Growth/Economic/GEconomicHeaderBlack.prefab
+  artifactKey: Guid(42737a813486907e28c0fa87a24e0ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Growth/Economic/GEconomicHeaderBlack.prefab using Guid(42737a813486907e28c0fa87a24e0ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c34895ca50dee1d3d875d5e57caa2e') in 0.008521 seconds
+  Import took 0.011969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Assets/Prefabs/Panels/Afforestation Panel Content.prefab
+  artifactKey: Guid(244326e386e84e55b93d8a4c78646b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/Afforestation Panel Content.prefab using Guid(244326e386e84e55b93d8a4c78646b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a480ced2a1e556945989992fee4a1a') in 0.043790 seconds
+  Import took 0.048879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderBlack.prefab
+  artifactKey: Guid(d1b3d42a3c126c31bad8555138e7108a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Carbon Removal/Afforestation/AfforestationHeaderBlack.prefab using Guid(d1b3d42a3c126c31bad8555138e7108a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ab31ba1641ab81203f814c9c77cf95') in 0.004139 seconds
+  Import took 0.008290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Prefabs/Panels/BI Efficiency Panel Content.prefab
+  artifactKey: Guid(14dd85a765f74edf5a784de35dbb5caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/BI Efficiency Panel Content.prefab using Guid(14dd85a765f74edf5a784de35dbb5caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4af82aa7fd9bf45daeca38606ae422d') in 0.039961 seconds
+  Import took 0.044390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefabs/Panels/BI Electrification Panel Content.prefab
+  artifactKey: Guid(0f0a93744a72713e79db422bbc3a3a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Panels/BI Electrification Panel Content.prefab using Guid(0f0a93744a72713e79db422bbc3a3a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74758e0352f64e7451688463974c936') in 0.044575 seconds
+  Import took 0.047940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Prefabs/BackgroundImages/BuildingsIndustry/BI Electrification.prefab
+  artifactKey: Guid(90e9527f68885e3afb4cd3329e7a42c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/BuildingsIndustry/BI Electrification.prefab using Guid(90e9527f68885e3afb4cd3329e7a42c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9766d528ad38bd1a070e2333c999928c') in 0.003593 seconds
+  Import took 0.006383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000877 seconds.
+  path: Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderWhite.prefab
+  artifactKey: Guid(f9f9a8d0ad4b6709a8dcd19f3b7d9292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Headers/Energy Supply/Carbon Pricing/CarbonPricingHeaderWhite.prefab using Guid(f9f9a8d0ad4b6709a8dcd19f3b7d9292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5604f304e9ad391e709ab25e8de5ac18') in 0.004071 seconds
+  Import took 0.016380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Prefabs/BackgroundImages/Emissions/Emissions.prefab
+  artifactKey: Guid(72f889dc176fcd36d812eda4329c8004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BackgroundImages/Emissions/Emissions.prefab using Guid(72f889dc176fcd36d812eda4329c8004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbe651c22719e4581ec9a917ceb6db4') in 0.007174 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 2.741178 ms (FindLiveObjects: 0.200006 ms CreateObjectMapping: 0.063095 ms MarkObjects: 2.451755 ms  DeleteObjects: 0.025598 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.955630 seconds.
+  path: Assets/Prefabs/Transport_Electrification.prefab
+  artifactKey: Guid(e44ca93f68180304887bbe0f930ec627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Transport_Electrification.prefab using Guid(e44ca93f68180304887bbe0f930ec627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7b5fa7f71bcfc540d00753afafd4b5') in 0.029635 seconds
+  Import took 0.033039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.336008 seconds.
+  path: Assets/Materials/Table Material/19_cork texture-seamless.jpg
+  artifactKey: Guid(d214b0f18c4c137419d5951bca32fb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/19_cork texture-seamless.jpg using Guid(d214b0f18c4c137419d5951bca32fb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbfd5be27ca93966aa246bad3eeb12e') in 1.825354 seconds
+  Import took 1.828434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Materials/Table Material/wengue.jpg
+  artifactKey: Guid(e5ea12b4a6faa03458f74a213a457e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/wengue.jpg using Guid(e5ea12b4a6faa03458f74a213a457e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6450944ce7ff16fa7dc10d533806264') in 0.072284 seconds
+  Import took 0.075891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Materials/Table Material/american walnut.jpg
+  artifactKey: Guid(1459d3f45c83ca34fa3d4d93be6b4f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/american walnut.jpg using Guid(1459d3f45c83ca34fa3d4d93be6b4f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64391104aa5c7975ee5b97089cb3425') in 0.057672 seconds
+  Import took 0.061514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Materials/Table Material/louro_negro.jpg
+  artifactKey: Guid(2b9d17f46661d1c489e9edef634b99b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/louro_negro.jpg using Guid(2b9d17f46661d1c489e9edef634b99b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e669e40bf85746522dc1d9491c573e71') in 0.056269 seconds
+  Import took 0.059522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Materials/Table Material/Laminate_A01_Diff.jpg
+  artifactKey: Guid(c8d0c3132839495419ad2fe96e07e8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/Laminate_A01_Diff.jpg using Guid(c8d0c3132839495419ad2fe96e07e8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66e92ae8613c551f31048c82b46d9c0') in 0.023840 seconds
+  Import took 0.026573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Materials/Table Material/m-eben.jpg
+  artifactKey: Guid(88a79b0c58af99b4abe38e4e727278c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material/m-eben.jpg using Guid(88a79b0c58af99b4abe38e4e727278c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4569bbecbfd91037df913dcfb3a49ec9') in 0.057297 seconds
+  Import took 0.060775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 368.754129 seconds.
+  path: Assets/Images/Information/Table.jpg
+  artifactKey: Guid(8aed73b3c5cfdf9a199e82955885bd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Information/Table.jpg using Guid(8aed73b3c5cfdf9a199e82955885bd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b2b696990b19ec3963e0f467e1a9ba') in 0.042100 seconds
+  Import took 0.063971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Materials/Table Material 5.mat
+  artifactKey: Guid(b93e3a378ff65134a8a0e03effceda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material 5.mat using Guid(b93e3a378ff65134a8a0e03effceda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4544e238b5fccd3dd0693aac676342') in 0.692029 seconds
+  Import took 0.696537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Materials/Table Material 4.mat
+  artifactKey: Guid(9d71fb8958a105f46913fd76371a472e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material 4.mat using Guid(9d71fb8958a105f46913fd76371a472e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547a44deb4da66a35c819b35c3df5709') in 0.092756 seconds
+  Import took 0.095765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Materials/Table Material 1.mat
+  artifactKey: Guid(68f39b7e6b7391e44bce578eb0e97f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material 1.mat using Guid(68f39b7e6b7391e44bce578eb0e97f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f63e9a44700affc34f2f1717288fef') in 0.247646 seconds
+  Import took 0.252880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Materials/Table Material 3.mat
+  artifactKey: Guid(4370801209edf984f889f4f30d000e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material 3.mat using Guid(4370801209edf984f889f4f30d000e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88b8e46d7a134d2eee062319319e34d') in 0.015695 seconds
+  Import took 0.018267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Materials/Table Material 2.mat
+  artifactKey: Guid(10d4a368b93ccac4188dbfd3a69439ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Table Material 2.mat using Guid(10d4a368b93ccac4188dbfd3a69439ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768772c841e9dc6e5d6302073d379838') in 0.021018 seconds
+  Import took 0.025202 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1437 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.0 MB.
+System memory in use after: 180.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 1.948718 ms (FindLiveObjects: 0.197222 ms CreateObjectMapping: 0.046539 ms MarkObjects: 1.663093 ms  DeleteObjects: 0.040779 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.426329 seconds.
+  path: Assets/Scripts/GetSliderValue.cs
+  artifactKey: Guid(2c391a12458bd480eae387b6c82948c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GetSliderValue.cs using Guid(2c391a12458bd480eae387b6c82948c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347621ff6b69efd1c03e40d87192b194') in 0.598695 seconds
+  Import took 0.602475 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.431 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1437 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.5 MB.
+System memory in use after: 184.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 2.089099 ms (FindLiveObjects: 0.280292 ms CreateObjectMapping: 0.057602 ms MarkObjects: 1.724870 ms  DeleteObjects: 0.025308 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

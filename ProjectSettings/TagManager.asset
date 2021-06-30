@@ -8,6 +8,7 @@ TagManager:
   - Path
   - toSimulator
   - toMuseum
+  - BlackScreenCanvas
   layers:
   - Default
   - TransparentFX

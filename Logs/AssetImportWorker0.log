@@ -111,3 +111,99 @@ System memory in use after: 167.4 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1935.
 Total: 2.887934 ms (FindLiveObjects: 0.220168 ms CreateObjectMapping: 0.047009 ms MarkObjects: 2.600825 ms  DeleteObjects: 0.018871 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.382 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.5 MB.
+System memory in use after: 167.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1938.
+Total: 2.244805 ms (FindLiveObjects: 0.247690 ms CreateObjectMapping: 0.051896 ms MarkObjects: 1.896723 ms  DeleteObjects: 0.047394 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.7 MB.
+System memory in use after: 167.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 2.218489 ms (FindLiveObjects: 0.198207 ms CreateObjectMapping: 0.051951 ms MarkObjects: 1.913752 ms  DeleteObjects: 0.036685 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2455.317059 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Plant_Potted_Monstera_Deliciosa.prefab
+  artifactKey: Guid(da7afa674a6fd354a93985d54347752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Plant_Potted_Monstera_Deliciosa.prefab using Guid(da7afa674a6fd354a93985d54347752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2160c6f0416e1992b35a0106e3a1eac0') in 0.817885 seconds
+  Import took 0.822362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.613983 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Models
+  artifactKey: Guid(e1ce3e2b5326a71428692bbf3d312714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Models using Guid(e1ce3e2b5326a71428692bbf3d312714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1be18f14e017cea2eed09626b10b97d') in 0.001324 seconds
+  Import took 0.009064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.097001 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Models/Plant_Potted_Monstera_Deliciosa.fbx
+  artifactKey: Guid(e0bf51c05a4e17e47b94306301d09d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Models/Plant_Potted_Monstera_Deliciosa.fbx using Guid(e0bf51c05a4e17e47b94306301d09d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549d7cdc2c0260d1d1ea35973150bd30') in 0.328110 seconds
+  Import took 0.331712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.001310 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Basket_Wicker.mat
+  artifactKey: Guid(c55df31eb01a01645a9135df57c18412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Basket_Wicker.mat using Guid(c55df31eb01a01645a9135df57c18412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ba76fc745afe530f7eaec77b1bf6b2') in 0.209267 seconds
+  Import took 0.213598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Plant_Potted_Monstera_Deliciosa_Leaves.mat
+  artifactKey: Guid(e82d28b261152db43b283d8d2ed034f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Plant_Potted_Monstera_Deliciosa_Leaves.mat using Guid(e82d28b261152db43b283d8d2ed034f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ff15e07f152b5a899d3aa01ce0463e') in 0.012417 seconds
+  Import took 0.016764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Pot_Gravel_Monstera_Deliciosa.mat
+  artifactKey: Guid(404ea89aafac6794ea3cef7316183417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/Plant_Potted_Monstera_Deliciosa/Materials/Pot_Gravel_Monstera_Deliciosa.mat using Guid(404ea89aafac6794ea3cef7316183417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9d21e74cc357e355b4074453ffabd9') in 0.027664 seconds
+  Import took 0.031278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.172811 seconds.
+  path: Assets/HDRPFurniturePack/TridifyFurnitureDemoScene.unity
+  artifactKey: Guid(84c9a744319da794192e925128346254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPFurniturePack/TridifyFurnitureDemoScene.unity using Guid(84c9a744319da794192e925128346254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b060c9dcedc9a091bd06d9f82b3847d1') in 0.002087 seconds
+  Import took 0.007864 seconds .
+

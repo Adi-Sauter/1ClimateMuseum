@@ -1,0 +1,117 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51131
+Successfully changed project path to: /Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+/Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/adisauter/Documents/Studium/4. Semester/Teamprojekt/Projekt/ClimateMuseum/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-01 10:41:49.455 Unity[4614:84074] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-01 10:41:49.455 Unity[4614:84074] Metal devices available: 1
+2021-07-01 10:41:49.455 Unity[4614:84074] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-01 10:41:49.455 Unity[4614:84074] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56614
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001977 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 39.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.850 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006326 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.6 MB.
+System memory in use after: 163.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 2.143598 ms (FindLiveObjects: 0.183709 ms CreateObjectMapping: 0.045019 ms MarkObjects: 1.880095 ms  DeleteObjects: 0.033586 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SkySerie Freebie/6SidedFluffball.mat
+  artifactKey: Guid(efd1c33efd2d58340b88804268e6833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/6SidedFluffball.mat using Guid(efd1c33efd2d58340b88804268e6833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a1a8baa07f275ee336f28d76dc62d8') in 1.901279 seconds
+  Import took 1.904287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Scenes/Museum 2.unity
+  artifactKey: Guid(2eec93cd0467947ebae05906b63f22be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Museum 2.unity using Guid(2eec93cd0467947ebae05906b63f22be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fd9e046dee98b23795f0878caf5cdd') in 0.001435 seconds
+  Import took 0.004041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/SkySerie Freebie/FluffballDay.mat
+  artifactKey: Guid(20d4f77b9022eab48b4d94599ed4bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/FluffballDay.mat using Guid(20d4f77b9022eab48b4d94599ed4bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06b6139fe3b2daa00ce55352cda93b0') in 0.257571 seconds
+  Import took 0.266059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.273132 seconds.
+  path: Assets/Scenes/Museum.unity
+  artifactKey: Guid(9a353310689f4a2abad3c67225ccbe68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Museum.unity using Guid(9a353310689f4a2abad3c67225ccbe68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9979eb4e7491b4376102aad60cde7f2') in 0.013845 seconds
+  Import took 0.017114 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.8 MB.
+System memory in use after: 170.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 2.334595 ms (FindLiveObjects: 0.258889 ms CreateObjectMapping: 0.058961 ms MarkObjects: 1.987084 ms  DeleteObjects: 0.028083 ms)
+
